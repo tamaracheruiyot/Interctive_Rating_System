@@ -1,0 +1,114 @@
+.desktop-thanks1022-container {
+  min-height: 100vh;
+}
+.desktop-thanks1022-desktop-thanks1022 {
+  width: 1440px;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(19, 20, 23, 1);
+}
+.desktop-thanks1022-image {
+  top: 195px;
+  left: 514px;
+  width: 412px;
+  height: 416px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: rgba(150, 150, 150, 1);
+  border-width: 0px;
+  border-radius: 30px;
+  background-color: var(--dl-color-default-blackgradientb23d8);
+}
+.desktop-thanks1022-text {
+  top: 444px;
+  left: 649px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  text-decoration: none;
+}
+.desktop-thanks1022-text1 {
+  top: 494px;
+  left: 546px;
+  color: var(--dl-color-default-lightgreyee60b);
+  width: 340px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  text-decoration: none;
+}
+.desktop-thanks1022-group1027 {
+  top: 380px;
+  left: 624px;
+  width: 193px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.desktop-thanks1022-image1 {
+  top: 0px;
+  left: 0px;
+  width: 193px;
+  height: 32px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: rgba(150, 150, 150, 1);
+  border-width: 0px;
+  border-radius: 22.5px;
+  background-color: var(--dl-color-default-darkblue5be98);
+}
+.desktop-thanks1022-text2 {
+  top: 4px;
+  left: 20px;
+  color: var(--dl-color-default-orange592f7);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Overpass;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop-thanks1022-onlinepayment-two-color1210210 {
+  top: 240px;
+  left: 635px;
+  width: 162px;
+  height: 108px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.desktop-thanks1022-image2 {
+  top: 0px;
+  left: 0px;
+  width: 162px;
+  height: 108px;
+  position: absolute;
+  box-sizing: border-box;
+  object-fit: cover;
+  border-color: transparent;
+}
